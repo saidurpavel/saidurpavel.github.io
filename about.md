@@ -1,9 +1,10 @@
 ---
-layout: page
-title: "About Me"
-permalink: /about/
+layout: default
+title: About me
 ---
 
-## About Me
+# About Me
 
-I'm [Your Name], a PhD student researching [Your Field]. Here’s where you can learn more about my work.
+I am Saidur Pavel, a PhD student with a keen interest in [Your Field].  
+Here, I detail my academic background, research interests, and professional journey.  
+<!-- Add more detailed information about yourself -->
