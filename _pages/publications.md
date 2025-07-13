@@ -12,10 +12,10 @@ nav_order: 1
 
 <div class="publications">
 
-## 📘 Journal Publications
+## Journal Publications
 {% bibliography -f papers -q @*[category=journal]* %}
 
-## 📕 Conference Publications
+## Conference Publications
 {% bibliography -f papers -q @*[category=conference]* %}
 
 </div>
