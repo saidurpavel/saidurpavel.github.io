@@ -30,7 +30,7 @@ latest_posts:
 
 My name is Saidur Rahman Pavel, and I am currently pursuing a Ph.D. in Electrical Engineering at <a href="https://www.temple.edu/" target="_blank">Temple University</a>. My research focuses on array signal processing, machine learning, optimization, and wireless communications. I am working in the Advanced Signal Processing (ASP) Lab under the supervision of Dr. Yimin Zhang.
 
-I received my M.S. in Electrical Engineering from Temple University in June 2023. Prior to that, I completed my B.Sc. in Electrical and Electronic Engineering at Chittagong University of Engineering and Technology (CUET) in December 2017. From 2018 to 2020, I worked as a lecturer at Premier University, Chittagong.
+I received my M.S. in Electrical Engineering from <a href="https://www.temple.edu/" target="_blank">Temple University</a> in June 2023. Prior to that, I completed my B.Sc. in Electrical and Electronic Engineering at <a href="https://www.cuet.ac.bd/" target = "_blank">Chittagong University of Engineering and Technology (CUET)</a> in December 2017. From 2018 to 2020, I worked as a lecturer at <a href="https://puc.ac.bd/" target="_blank">Premier University, Chittagong</a>.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
