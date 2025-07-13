@@ -23,3 +23,26 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+// ============================
+// Custom section header styles
+// ============================
+
+.pub-section-header {
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 2rem 0 1rem 0;
+  padding: 0.4em 1em;
+  display: inline-block;
+  border-radius: 8px;
+  color: white;
+  background: #6f42c1; // purple (same as “Algorithms” badge)
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+.journal-header {
+  background: #1f77b4; // optional: blue
+}
+
+.conf-header {
+  background: #d62728; // optional: red
+}
