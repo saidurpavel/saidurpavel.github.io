@@ -7,14 +7,15 @@ nav: true
 nav_order: 1
 ---
 
-<!-- _pages/publications.md -->
-
 <!-- Bibsearch Feature -->
-
 {% include bib_search.liquid %}
 
 <div class="publications">
 
-{% bibliography %}
+## 📘 Journal Publications
+{% bibliography -f papers -q @*[category=journal]* %}
+
+## 📕 Conference Publications
+{% bibliography -f papers -q @*[category=conference]* %}
 
 </div>
