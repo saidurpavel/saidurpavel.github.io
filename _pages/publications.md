@@ -12,11 +12,36 @@ nav_order: 1
 
 <div class="publications">
 
-<div class="pub-section-header journal-header">📘 Journal Publications</div>
-{% bibliography -f papers -q @*[category=journal]* %}
+  <!--  Journal Section -->
+  <div class="pub-section-header" onclick="toggleSection('journal-list')">
+     Journal Publications
+    <span class="toggle-icon">▾</span>
+  </div>
+  <div id="journal-list">
+    {% bibliography -f papers -q @*[category=journal]* %}
+  </div>
 
-<div class="pub-section-header conf-header">📕 Conference Publications</div>
-{% bibliography -f papers -q @*[category=conference]* %}
-
+  <!--  Conference Section -->
+  <div class="pub-section-header" onclick="toggleSection('conference-list')">
+     Conference Publications
+    <span class="toggle-icon">▾</span>
+  </div>
+  <div id="conference-list">
+    {% bibliography -f papers -q @*[category=conference]* %}
+  </div>
 
 </div>
+
+<script>
+function toggleSection(id) {
+  const section = document.getElementById(id);
+  const icon = section.previousElementSibling.querySelector('.toggle-icon');
+  if (section.style.display === 'none') {
+    section.style.display = 'block';
+    icon.textContent = '▾';
+  } else {
+    section.style.display = 'none';
+    icon.textContent = '▸';
+  }
+}
+</script>
