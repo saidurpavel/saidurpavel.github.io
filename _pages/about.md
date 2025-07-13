@@ -8,9 +8,9 @@ profile:
   align: right
   image: saidur_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>2021 N 8th St</p>
-    <p>Philadelphia, PA, 19122</p>
+  # more_info: >
+  #   <p>2021 N 8th St</p>
+  #   <p>Philadelphia, PA, 19122</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
