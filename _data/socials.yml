@@ -10,8 +10,8 @@
 email: pavel.saidur@temple.edu # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-# github_username: # your GitHub user name
-gitlab_username: saidurpavel
+github_username: saidurpavel
+#gitlab_username: saidurpavel
 # ieee_id: # your ieeexplore.ieee.org/author/id
 #inspirehep_id: 1010907 # Inspire HEP author ID
 # instagram_id: # your instagram id
@@ -29,7 +29,7 @@ linkedin_username: saidur-pavel
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-rss_icon: true # comment this line to hide the RSS icon
+rss_icon: false # comment this line to hide the RSS icon
 scholar_userid: 8z0sPI4AAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID

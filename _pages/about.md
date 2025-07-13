@@ -28,9 +28,9 @@ latest_posts:
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
-My Name is Saidur Rahman Pavel. I am doing my PhD in Electrical Engineering from Temple University. My Research topic is array signal processing, machine learning,  optimization and wireless communications. I am working in Advanced signal process Lab (ASP) lab under the supervison of Dr. Yimin Zhang. 
+My name is Saidur Rahman Pavel, and I am currently pursuing a Ph.D. in Electrical Engineering at <a href="https://www.temple.edu/" target="_blank">Temple University</a>. My research focuses on array signal processing, machine learning, optimization, and wireless communications. I am working in the Advanced Signal Processing (ASP) Lab under the supervision of Dr. Yimin Zhang.
 
-Previously I received my masters degree from the Temple university in Electrical Engineering. I received my B.Sc in Electrical and Electroic Engineering degree from Chittagong University of Enngineering and Technology in 2017. I was also working as a lectruer in Premier University, Chittagong from 2028-2020. 
+I received my M.S. in Electrical Engineering from Temple University in June 2023. Prior to that, I completed my B.Sc. in Electrical and Electronic Engineering at Chittagong University of Engineering and Technology (CUET) in December 2017. From 2018 to 2020, I worked as a lecturer at Premier University, Chittagong.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
