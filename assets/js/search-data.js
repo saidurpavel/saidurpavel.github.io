@@ -499,11 +499,11 @@ ninja.data = [{
           window.open("mailto:%70%61%76%65%6C.%73%61%69%64%75%72@%74%65%6D%70%6C%65.%65%64%75", "_blank");
         },
       },{
-        id: 'social-gitlab',
-        title: 'GitLab',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://gitlab.com/saidurpavel", "_blank");
+          window.open("https://github.com/saidurpavel", "_blank");
         },
       },{
         id: 'social-linkedin',
