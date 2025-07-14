@@ -20,17 +20,15 @@ nav_order: 3
 <div id="reviews">
   <h4>Journal Review</h4>
   <ul>
-    <li>IEEE Transactions on Signal Processing</li>
-    <li>Elsevier Signal Processing</li>
-    <li>IEEE Access</li>
-    <!-- Add more as needed -->
+    <li>Signal Processing</li>
+    <li>IEEE Signal Processing Letters</li>
   </ul>
 
   <h4>Conference Review</h4>
   <ul>
-    <li>IEEE ICASSP</li>
-    <li>IEEE SPAWC</li>
-    <li>Asilomar Conference</li>
+    <li>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</li>
+    <li>Asilomar Conference on Signals, Systems & Computers</li>
+    <li>IEEE Signal Processing in Medicine and Biology Symposium</li>
     <!-- Add more as needed -->
   </ul>
 </div>
@@ -74,10 +72,8 @@ I worked as a Teaching Assistant (TA) at Temple University from 2022 to 2023, an
 </div>
 <div id="memberships">
   <ul>
-    <li>IEEE Member</li>
-    <li>IEEE Signal Processing Society Member</li>
-    <li>ACM Professional Member</li>
- 
+    <li>IEEE Signal Processing Society</li>
+    <li>IEEE Eta Kappa Nu Honors Society</li> 
   </ul>
 </div>
 
