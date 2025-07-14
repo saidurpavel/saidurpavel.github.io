@@ -2,11 +2,8 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: I worked as a Teaching Assistant (TA) at Temple University from 2022 to 2023, and prior to that, I worked as a Lecturer at Premier University, Chittagong, from 2018 to 2020. During these periods, I taught several courses, which are listed in the following. 
 nav: true
 nav_order: 4
 ---
-
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+Digital signal processing
