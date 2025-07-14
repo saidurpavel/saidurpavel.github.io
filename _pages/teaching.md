@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: I worked as a Teaching Assistant (TA) at Temple University from 2022 to 2023, and prior to that, I worked as a Lecturer at Premier University, Chittagong, from 2018 to 2020.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 <div class="publication-toggles">
