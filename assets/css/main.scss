@@ -34,23 +34,39 @@ $max-content-width: {{ site.max_width }};
   margin-bottom: 2rem;
 }
 
+// .pub-section-header {
+//   font-size: 1.2rem;
+//   font-weight: 600;
+//   padding: 0.4em 1.2em;
+//   border-radius: 8px;
+//   background-color: #ede6f3;
+//   color: #333;;
+//   border: 1px solid #ddd;
+//   border-radius: 6px;
+//   cursor: pointer;
+//   display: flex;
+//   justify-content: space-between;
+//   align-items: center;
+//   box-shadow: 0 2px 6px rgba(0,0,0,0.07);
+//   transition: background-color 0.2s ease;
+//   margin-bottom: 0.75rem;
+// }
+/* Customize collapsible section headers */
 .pub-section-header {
-  font-size: 1.2rem;
-  font-weight: 600;
-  padding: 0.4em 1.2em;
-  border-radius: 8px;
-  background-color: #ede6f3;
-  color: #333;;
-  border: 1px solid #ddd;
-  border-radius: 6px;
+  font-size: 1.75rem;         /* Match h2 or h3 size depending on your theme */
+  font-weight: 600;           /* Match section header weight */
+  margin-top: 2rem;
+  margin-bottom: 1rem;
   cursor: pointer;
+  padding: 0.75rem 1rem;
+  border-radius: 0.5rem;
+  background-color: var(--entry);  /* Use theme variable or remove for transparent */
+  color: var(--text-normal);       /* Ensure it inherits normal text color */
   display: flex;
   justify-content: space-between;
   align-items: center;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.07);
-  transition: background-color 0.2s ease;
-  margin-bottom: 0.75rem;
 }
+
 
 .pub-section-header:hover {
   background-color: #ded3ee;
