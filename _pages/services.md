@@ -40,27 +40,30 @@ nav_order: 3
    Courses Taught
   <span class="toggle-icon">▾</span>
 </div>
+<p>
+I worked as a Teaching Assistant (TA) at Temple University from 2022 to 2023, and prior to that, I worked as a Lecturer at Premier University, Chittagong, from 2018 to 2020.
+</p>
 <div id="courses">
-  <h4>At Temple University</h4>
+  <h4>Temple University</h4>
   <ul>
-    <li>ECE 4513: Digital Communication Systems Lab</li>
-    <li>ECE 2113: Electrical Devices & Systems I Lab</li>
-    <li>ECE 1111: Engineering Computation I Lab</li>
-    <li>ECE 3313: Microelectronics I Lab</li>
-    <li>ECE 2333: Principles of Electric Circuits Lab</li>
-    <li>ECE 2332: Principles of Electric Circuits</li>
-    <li>ECE 3512: Signals and Systems</li>
+      <li><a href="https://bulletin.temple.edu/search/?P=ECE%204513" target="_blank">ECE 4513: Digital Communication Systems Lab.</a></li>
+      <li><a href="https://bulletin.temple.edu/search/?P=ECE%202113" target="_blank">ECE 2113: Electrical Devices & Systems I Lab.</a></li>
+      <li><a href="https://bulletin.temple.edu/search/?P=ECE%201111" target="_blank">ECE 1111: Engineering Computation I Lab.</a></li>       
+      <li><a href="https://bulletin.temple.edu/search/?P=ECE%203313" target="_blank">ECE 3313: Microelectronics I Lab.</a></li>        
+      <li><a href="https://bulletin.temple.edu/search/?P=ECE%202333" target="_blank">ECE 2333: Principles of Electric Circuits Lab.</a></li>    
+      <li><a href="https://bulletin.temple.edu/search/?P=ECE%202332" target="_blank">ECE 2333: Principles of Electric Circuits.</a></li>      
+      <li><a href="https://bulletin.temple.edu/search/?P=ECE%203512" target="_blank">ECE 3512: Signals and Systems</a></li>  
   </ul>
 
-  <h4>At Premier University</h4>
+  <h4> Premier University</h4>
   <ul>
-    <li>Control Systems</li>
-    <li>Control Systems Lab</li>
-    <li>Electronics 1</li>
-    <li>Electronics 1 Lab</li>
-    <li>Electrical Circuits 1</li>
-    <li>Electrical Circuits 1 Lab</li>
-    <li>Microprocessor & Microcontroller</li>
+        <li>EEE 101: Electrical Circuits 1</li>
+        <li>EEE 102: Electrical Circuits 1 Lab.</li>    
+        <li>EEE 211: Electronics 1</li>
+        <li>EEE 212: Electronics 1 Lab.</li>    
+        <li>EEE 313: Control Systems</li>
+        <li>EEE 314: Control Systems Lab.</li>
+         <li>EEE 371: Microprocessor & Microcontroller</li>
   </ul>
 </div>
 
@@ -74,7 +77,7 @@ nav_order: 3
     <li>IEEE Member</li>
     <li>IEEE Signal Processing Society Member</li>
     <li>ACM Professional Member</li>
-    <!-- Add more as needed -->
+ 
   </ul>
 </div>
 
