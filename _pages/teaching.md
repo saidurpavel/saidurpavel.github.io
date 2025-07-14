@@ -33,13 +33,13 @@ nav_order: 4
   </div>
   <div id="premier-list">
         <ul>
-        <li> Control Systems</li>
-        <li> Control Systems Lab.</li>
-        <li>Electronics 1</li>
-        <li>Electronics 1 Lab.</li>
-        <li>Electrical Circuits 1</li>
-        <li>Electrical Circuits 1 Lab.</li>
-        <li>Microprocessor & Microcontroller<li>
+        <li>EEE 101: Electrical Circuits 1</li>
+        <li>EEE 102: Electrical Circuits 1 Lab.</li>    
+        <li>EEE 211: Electronics 1</li>
+        <li>EEE 212: Electronics 1 Lab.</li>    
+        <li>EEE 313: Control Systems</li>
+        <li>EEE 314: Control Systems Lab.</li>
+         <li>EEE 371: Microprocessor & Microcontroller</li>
         </ul>
   </div>
 
