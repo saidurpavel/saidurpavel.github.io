@@ -11,13 +11,19 @@ nav_order: 4
 
   <!-- Temple Section -->
   <div class="pub-section-header" onclick="toggleSection('temple-list')">
-    📘 Courses Taught at Temple University
+    Courses Taught at Temple University
     <span class="toggle-icon">▾</span>
   </div>
   <div id="temple-list">
     <ul>
-      <li><a href="https://bulletin.temple.edu/search/?P=ECE%204532" target="_blank">ECE 4532: Digital Signal Processing</a></li>
-      <li><a href="https://bulletin.temple.edu/search/?P=ECE%202322" target="_blank">ECE 2322: Signals and Systems</a></li>
+      <li><a href="https://bulletin.temple.edu/search/?P=ECE%204513" target="_blank">ECE 4513: Digital Communication Systems Lab.</a></li>
+      <li><a href="https://bulletin.temple.edu/search/?P=ECE%202113" target="_blank">ECE 2113: Electrical Devices & Systems I Lab.</a></li>
+      <li><a href="https://bulletin.temple.edu/search/?P=ECE%201111" target="_blank">ECE 1111: Engineering Computation I Lab.</a></li>       
+      <li><a href="https://bulletin.temple.edu/search/?P=ECE%203313" target="_blank">ECE 3313: Microelectronics I Lab.</a></li>    
+    </ul>     
+     <li><a href="https://bulletin.temple.edu/search/?P=ECE%202333" target="_blank">ECE 2333: Principles of Electric Circuits Lab.</a></li>    
+      <li><a href="https://bulletin.temple.edu/search/?P=ECE%202332" target="_blank">ECE 2333: Principles of Electric Circuits.</a></li>      
+       <li><a href="https://bulletin.temple.edu/search/?P=ECE%203512" target="_blank">ECE 3512: Signals and Systems</a></li>  
     </ul>
   </div>
 
