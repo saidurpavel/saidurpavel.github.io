@@ -19,11 +19,10 @@ nav_order: 4
       <li><a href="https://bulletin.temple.edu/search/?P=ECE%204513" target="_blank">ECE 4513: Digital Communication Systems Lab.</a></li>
       <li><a href="https://bulletin.temple.edu/search/?P=ECE%202113" target="_blank">ECE 2113: Electrical Devices & Systems I Lab.</a></li>
       <li><a href="https://bulletin.temple.edu/search/?P=ECE%201111" target="_blank">ECE 1111: Engineering Computation I Lab.</a></li>       
-      <li><a href="https://bulletin.temple.edu/search/?P=ECE%203313" target="_blank">ECE 3313: Microelectronics I Lab.</a></li>    
-    </ul>     
-     <li><a href="https://bulletin.temple.edu/search/?P=ECE%202333" target="_blank">ECE 2333: Principles of Electric Circuits Lab.</a></li>    
+      <li><a href="https://bulletin.temple.edu/search/?P=ECE%203313" target="_blank">ECE 3313: Microelectronics I Lab.</a></li>        
+      <li><a href="https://bulletin.temple.edu/search/?P=ECE%202333" target="_blank">ECE 2333: Principles of Electric Circuits Lab.</a></li>    
       <li><a href="https://bulletin.temple.edu/search/?P=ECE%202332" target="_blank">ECE 2333: Principles of Electric Circuits.</a></li>      
-       <li><a href="https://bulletin.temple.edu/search/?P=ECE%203512" target="_blank">ECE 3512: Signals and Systems</a></li>  
+      <li><a href="https://bulletin.temple.edu/search/?P=ECE%203512" target="_blank">ECE 3512: Signals and Systems</a></li>  
     </ul>
   </div>
 
@@ -33,13 +32,15 @@ nav_order: 4
     <span class="toggle-icon">▾</span>
   </div>
   <div id="premier-list">
-    <ul>
-      <li><a href="#">EEE 3112: Communication Engineering</a></li>
-      <li><a href="#">EEE 2211: Signals and Linear Systems</a></li>
-      <li><a href="#">EEE 4314: Digital Image Processing</a></li>
-      <li><a href="#">EEE 4413: Wireless Communication</a></li>
-      <li><a href="#">EEE 1011: Electrical Circuits I</a></li>
-    </ul>
+        <ul>
+        <li> Control Systems</li>
+        <li> Control Systems Lab.</li>
+        <li>Electronics 1</li>
+        <li>Electronics 1 Lab.</li>
+        <li>Electrical Circuits 1</li>
+        <li>Electrical Circuits 1 Lab.</li>
+        <li>Microprocessor & Microcontroller<li>
+        </ul>
   </div>
 
 </div>
