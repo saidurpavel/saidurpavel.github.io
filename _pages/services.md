@@ -11,9 +11,12 @@ nav_order: 3
 
 <!-- Section 1: Paper Reviews -->
 <div class="pub-section-header" onclick="toggleSection('reviews')">
-  📄 Paper Reviews
+   Paper Reviews
   <span class="toggle-icon">▾</span>
 </div>
+  <p>
+    I have contributed as a peer reviewer for several prestigious journals and conferences. Below is a categorized list of my reviewing activities.
+  </p>
 <div id="reviews">
   <h4>Journal Review</h4>
   <ul>
@@ -34,7 +37,7 @@ nav_order: 3
 
 <!-- Section 2: Courses Taught -->
 <div class="pub-section-header" onclick="toggleSection('courses')">
-  🎓 Courses Taught
+   Courses Taught
   <span class="toggle-icon">▾</span>
 </div>
 <div id="courses">
@@ -63,7 +66,7 @@ nav_order: 3
 
 <!-- Section 3: Professional Memberships -->
 <div class="pub-section-header" onclick="toggleSection('memberships')">
-  👥 Professional Memberships
+   Professional Memberships
   <span class="toggle-icon">▾</span>
 </div>
 <div id="memberships">
