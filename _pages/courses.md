@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /courses/
-title: Course Taken
-description: Materials for courses you taught. Replace this text with your description.
+title: Courses
+description: During my M.S. and Ph.D. in Temple University, I have taken the following courses.
 nav: true
-nav_order: 4
+nav_order: 2
 ---
 
 For Journal and conference reviews

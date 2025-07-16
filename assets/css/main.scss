@@ -37,7 +37,7 @@ $max-content-width: {{ site.max_width }};
 .pub-section-header {
   font-size: 1.75rem; // previously 1.2rem
   font-weight: normal; // previously 600
-  padding: 0.4em 1.2em;
+  padding: 0.2em 1.2em; // First entry of the padding is the height of the bounding box
   border-radius: 8px;
   background-color: #ede6f3;
   color: #333;;
