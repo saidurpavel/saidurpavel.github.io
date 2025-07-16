@@ -13,7 +13,7 @@ nav_order: 2
       <li><a href="https://bulletin.temple.edu/search/?P=ECE%205442" target="_blank">ECE 5442: Engineering Optimization</a></li>     
     <li><a href="https://bulletin.temple.edu/search/?P=ECE%205512" target="_blank">ECE 5512: Introduction to Digital Communications</a></li>   
        <li><a href="https://bulletin.temple.edu/search/?P=ECE%205514" target="_blank">ECE 5514: Digital signal Processing</a></li>  
-    <li><a href="https://bulletin.temple.edu/search/?P=ECE%205516" target="_blank">ECE 5516: Introduction to Communication Networks</a></li>  
+  <li><a href="https://bulletin.temple.edu/search/?P=ECE%205516" target="_blank">ECE 5516: Introduction to Communication Networks</a><li>  
       <li><a href="https://bulletin.temple.edu/search/?P=ECE%205562" target="_blank">ECE 5562: Wireless Communications</a><li>   
     <li><a href="https://bulletin.temple.edu/search/?P=CIS%205603" target="_blank">CIS 5603: Artificial Intelligence</a><li>  
     <li><a href="https://bulletin.temple.edu/search/?P=ECE%208110" target="_blank">ECE 8110: Special Topics: Array signal Processing</a><li>
