@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+        },{id: "nav-courses",
+          title: "Courses",
+          description: "During my M.S. and Ph.D. in Temple University, I have taken the following courses.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/courses/";
           },
         },{id: "nav-services",
           title: "Services",
@@ -30,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/services/";
           },
-        },{id: "nav-course-taken",
-          title: "Course Taken",
-          description: "Materials for courses you taught. Replace this text with your description.",
+        },{id: "nav-cv",
+          title: "CV",
+          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/courses/";
+            window.location.href = "/cv/";
           },
         },{id: "post-a-post-with-plotly-js",
         
