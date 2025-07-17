@@ -22,6 +22,4 @@ nav_order: 2
     <li><a href="https://bulletin.temple.edu/search/?P=ECE%208527" target="_blank">ECE 8527: Introduction to Machine Learning and Pattern Recognition</a></li>
    <li><a href="https://bulletin.temple.edu/search/?P=ECE%209514" target="_blank">ECE 9514: Adaptive signal Processing</a></li>
 
-          
-     
   </ul>

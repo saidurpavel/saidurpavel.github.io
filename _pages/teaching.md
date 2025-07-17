@@ -58,4 +58,3 @@ function toggleSection(id) {
   }
 }
 </script>
-
