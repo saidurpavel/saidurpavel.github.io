@@ -50,7 +50,7 @@
       "institution": "Temple University, Phildadelphia, PA",
       "location": "Philadelphia, PA, USA.",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "area": ["Array SIgnal Processing", "Machine Learning", "Wireless Communication"],
       "studyType": "PhD",
       "startDate": "1905-01-01",
       "endDate": "1905-01-01",
