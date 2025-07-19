@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Saidur Rahman Pavel",
+    "label": "PhD candidate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "pavel.saidur@temple.edu",
+    "phone": "2673077459",
+    "url": "https://saidurpavel.github.io/",
+    "summary": "A PhD student from Temple University",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "2021 N 8th St",
+      "postalCode": "PA 19122",
+      "city": "Phildadelphia",
       "countryCode": "US",
-      "region": "California"
+      "region": "Pennsylvania"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "saidur-pavel",
+        "url": "https://twitter.com/saidur-pavel"
       }
     ]
   },
@@ -47,15 +47,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "Temple University, Phildadelphia, PA",
+      "location": "Philadelphia, PA, USA.",
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
       "studyType": "PhD",
       "startDate": "1905-01-01",
       "endDate": "1905-01-01",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Array signal processing"]
     }
   ],
   "awards": [
