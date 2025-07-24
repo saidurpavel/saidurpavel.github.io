@@ -398,11 +398,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-have-been-accepted-in-icassp",
-          title: 'Our  Paper have been accepted in ICASSP.',
+            },},{id: "news-our-paper-has-been-accepted-to-icassp",
+          title: 'Our  Paper has been accepted to ICASSP.',
           description: "",
-          section: "News",},{id: "news-our-lates-paper-accepted-in-eusipco",
-          title: 'Our lates paper accepted in EUSIPCO.',
+          section: "News",},{id: "news-our-latest-paper-has-been-accepted-to-eusipco",
+          title: 'Our latest paper has been accepted to EUSIPCO.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
