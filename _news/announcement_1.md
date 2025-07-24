@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our lates paper accepted in EUSIPCO.
+Our latest paper has been accepted to EUSIPCO.
