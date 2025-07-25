@@ -48,7 +48,19 @@
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
-    <div class="title">{{ entry.title }}</div>
+    <div class="title">
+      {% if entry.file %}
+        <a href="{{ entry.file }}" target="_blank" style="text-decoration: none; color: inherit;">
+          {{ entry.title }}
+        </a>
+      {% elsif entry.pdf %}
+        <a href="{{ entry.pdf }}" target="_blank" style="text-decoration: none; color: inherit;">
+          {{ entry.title }}
+        </a>
+      {% else %}
+        {{ entry.title }}
+      {% endif %}
+    </div>
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
@@ -216,13 +228,6 @@
           <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
         {% else %}
           <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
-        {% endif %}
-      {% endif %}
-      {% if entry.file %}
-        {% if entry.file contains '://' %}
-          <a href="{{ entry.file }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
-        {% else %}
-          <a href="{{ entry.file | prepend: site.baseurl }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
         {% endif %}
       {% endif %}
       {% if entry.supp %}
