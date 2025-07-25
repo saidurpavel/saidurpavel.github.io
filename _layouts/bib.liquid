@@ -50,11 +50,11 @@
     <!-- Title -->
     <div class="title">
       {% if entry.file %}
-        <a href="{{ entry.file }}" target="_blank" style="text-decoration: none; color: inherit;">
+        <a href="{{ entry.file }}" target="_blank" class="clickable-title">
           {{ entry.title }}
         </a>
       {% elsif entry.pdf %}
-        <a href="{{ entry.pdf }}" target="_blank" style="text-decoration: none; color: inherit;">
+        <a href="{{ entry.pdf }}" target="_blank" class="clickable-title">
           {{ entry.title }}
         </a>
       {% else %}
