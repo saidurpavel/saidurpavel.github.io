@@ -32,7 +32,7 @@ My name is Saidur Rahman Pavel, and I am currently pursuing a Ph.D. in Electrica
 
 I received my M.S. in Electrical Engineering from <a href="https://www.temple.edu/" target="_blank">Temple University</a> in June 2023. Prior to that, I completed my B.Sc. in Electrical and Electronic Engineering at <a href="https://www.cuet.ac.bd/" target = "_blank">Chittagong University of Engineering and Technology (CUET)</a> in December 2017. From 2018 to 2020, I worked as a lecturer at <a href="https://puc.ac.bd/" target="_blank">Premier University, Chittagong</a>.
 <p>
-Download my <a href="https://tuprd-my.sharepoint.com/:b:/g/personal/tun65479_temple_edu/EenQypJQeRFKpKs-Pq2ZI8IBmj9F5tHT7msklO5vRiaUEw?e=Me0P1g" target="_blank">CV</a>.
+Download my <a href="https://tuprd-my.sharepoint.com/:b:/g/personal/tun65479_temple_edu/EViZv7J-WvVGrEscrYHYRdkBIMAbLcYXnS9DYkD2DtEZCA?e=F5yaKd" target="_blank">CV</a>.
 </p>
 
 

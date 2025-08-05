@@ -39,9 +39,12 @@ $max-content-width: {{ site.max_width }};
   font-weight: normal;
   padding: 0.2em 1.2em;
   border-radius: 6px;
-  background-color: var(--global-theme-color-light);
-  color: var(--global-theme-text);                   // theme-adaptive text
-  border: 1px solid var(--global-border-color);      // theme-adaptive border
+
+  /* Light mode: pastel purple */
+  background-color: #e8d7f0;   // soft purple for light theme
+  color: var(--global-theme-text);
+  border: 1px solid var(--global-border-color);
+
   cursor: pointer;
   display: flex;
   justify-content: space-between;
@@ -50,6 +53,12 @@ $max-content-width: {{ site.max_width }};
   transition: background-color 0.2s ease;
   margin-bottom: 0.75rem;
 }
+
+/* Dark mode override: keep blue tone */
+[data-theme="dark"] .pub-section-header {
+  background-color: var(--global-theme-color-light);
+}
+
 
 
 .pub-section-header:hover {
