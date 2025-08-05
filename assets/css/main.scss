@@ -56,7 +56,7 @@ $max-content-width: {{ site.max_width }};
 
 /* Dark mode override: keep blue tone */
 [data-theme="dark"] .pub-section-header {
-  background-color: var(--global-theme-color-light);
+  background-color: var(--global-theme-color);
 }
 
 
