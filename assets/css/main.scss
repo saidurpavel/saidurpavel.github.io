@@ -39,7 +39,7 @@ $max-content-width: {{ site.max_width }};
   font-weight: normal;
   padding: 0.2em 1.2em;
   border-radius: 6px;
-  background-color: background-color: mix(var(--global-theme-color), var(--global-bg-color), 20%);      // theme-adaptive background
+  background-color: mix(var(--global-theme-color), var(--global-bg-color), 20%);      // theme-adaptive background
   color: var(--global-theme-text);                   // theme-adaptive text
   border: 1px solid var(--global-border-color);      // theme-adaptive border
   cursor: pointer;
