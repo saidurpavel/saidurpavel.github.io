@@ -28,7 +28,7 @@ latest_posts:
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
-My name is Saidur Rahman Pavel, and I am currently pursuing a Ph.D. in Electrical Engineering at <a href="https://www.temple.edu/" target="_blank">Temple University</a>. My research focuses on array signal processing, machine learning, optimization, and wireless communications. I am working in the <a href="https://sites.temple.edu/aspl/" target="_blank">Advanced Signal Processing (ASP) Lab</a>under the supervision of <a href="https://www.yiminzhang.com/" target="_blank">Dr. Yimin Zhang </a>.
+My name is Saidur Rahman Pavel, and I am currently pursuing a Ph.D. in Electrical Engineering at <a href="https://www.temple.edu/" target="_blank">Temple University</a>. My research focuses on array signal processing, machine learning, optimization, and wireless communications. I am working in the <a href="https://sites.temple.edu/aspl/" target="_blank">Advanced Signal Processing (ASP) Lab</a> under the supervision of <a href="https://www.yiminzhang.com/" target="_blank">Dr. Yimin Zhang</a>.
 
 I received my M.S. in Electrical Engineering from <a href="https://www.temple.edu/" target="_blank">Temple University</a> in June 2023. Prior to that, I completed my B.Sc. in Electrical and Electronic Engineering at <a href="https://www.cuet.ac.bd/" target = "_blank">Chittagong University of Engineering and Technology (CUET)</a> in December 2017. From 2018 to 2020, I worked as a lecturer at <a href="https://puc.ac.bd/" target="_blank">Premier University, Chittagong</a>.
 <p>
