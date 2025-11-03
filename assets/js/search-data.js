@@ -398,8 +398,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-presented-our-paper-in-the-asilomar-2025-conference",
+          title: 'Presented our paper in the Asilomar 2025 conference',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/asilomar_conference/";
