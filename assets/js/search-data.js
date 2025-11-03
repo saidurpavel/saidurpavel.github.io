@@ -398,11 +398,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-presented-our-paper-in-the-asilomar-2025-conference",
-          title: 'Presented our paper in the Asilomar 2025 conference',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/asilomar_conference/";
             },},{id: "news-our-paper-has-been-accepted-to-icassp",
           title: 'Our  Paper has been accepted to ICASSP.',
           description: "",
@@ -412,7 +407,12 @@ ninja.data = [{
           section: "News",},{id: "news-our-latest-paper-has-been-accepted-to-asilomar-conference-on-signals-systems-and-computers-2025",
           title: 'Our latest paper has been accepted to Asilomar Conference on Signals, Systems, and...',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-presented-our-paper-at-asilomar-2025",
+          title: 'Presented our paper at Asilomar 2025',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/asilomar_conference/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
