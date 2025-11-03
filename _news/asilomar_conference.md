@@ -7,7 +7,7 @@ related_posts: false
 published: true
 ---
 <figure>
-  <img src="/Users/saidurrahmanpavel/Desktop/saidurpavel.github.io/assets/img/asilomar_present.JPG" alt="Presenting at Asilomar 2025" style="max-width:100%; height:auto;">
+  <img src="assets/img/asilomar_present.JPG" alt="Presenting at Asilomar 2025" style="max-width:100%; height:auto;">
   <figcaption>Presenting “Tensor-Based Compressive Measurements in 2D Massive MIMO Systems.”</figcaption>
 </figure>
 
