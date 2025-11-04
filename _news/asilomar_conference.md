@@ -7,8 +7,10 @@ related_posts: false
 published: true
 ---
 <figure>
-  <img src="{{ '/assets/img/asilomar_present.JPG' | relative_url }}"
-       alt="Presenting at Asilomar 2025" style="max-width:100%; height:auto;">
+    <img src="{{ '/assets/img/asilomar_present.JPG' | relative_url }}"
+     alt="Presenting at Asilomar 2025"
+     style="width:70%; height:auto; display:block; margin:1rem auto; border-radius:8px;">
+
   <figcaption>Presenting “Tensor-Based Compressive Measurements in 2D Massive MIMO Systems.”</figcaption>
 </figure>
 
