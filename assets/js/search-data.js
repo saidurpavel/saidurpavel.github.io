@@ -412,7 +412,13 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/asilomar_conference/";
-            },},{id: "projects-project-1",
+            },},{id: "news-our-latest-paper-on-2d-doa-estimation-for-coherent-signals-using-a-moving-ura-has-been-accepted-in-ieee-signal-processing-letter",
+          title: 'Our latest paper on 2D DOA estimation for coherent signals using a moving...',
+          description: "",
+          section: "News",},{id: "news-our-latest-paper-on-2d-doa-estimation-for-coherent-signals-exploiting-forward-backward-covariance-tensor-has-been-accepted-in-ieee-transcations-on-signal-processing",
+          title: 'Our latest paper on 2D DOA estimation for coherent signals exploiting forward backward...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
