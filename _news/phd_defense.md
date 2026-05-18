@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Presented our paper at Asilomar 2025
+title: Defended my PhD dissertation
 date: 2026-04-06 16:11:00-0400
 inline: false
 related_posts: false
@@ -17,7 +17,7 @@ published: true
 </style>
 
 <figure class="figure-float">
-  <a href="{{ '/assets/img/asilomar_present.JPG' | relative_url }}">
+  <a href="{{ '/assets/img/IMG_1572.JPG' | relative_url }}">
     <!-- You can swap the src below with a smaller version (e.g., ..._1600.jpg) for faster loads -->
     <img src="{{ '/assets/img/asilomar_present.JPG' | relative_url }}"
          alt="Presenting at Asilomar 2025">
