@@ -17,10 +17,10 @@ published: true
 </style>
 
 <figure class="figure-float">
-  <a href="{{ '/assets/img/IMG_1572.JPG' | relative_url }}">
+  <a href="{{ '/assets/img/IMG_1572.jpg' | relative_url }}">
     <!-- You can swap the src below with a smaller version (e.g., ..._1600.jpg) for faster loads -->
-    <img src="{{ '/assets/img/asilomar_present.JPG' | relative_url }}"
-         alt="Presenting at Asilomar 2025">
+    <img src="{{ '/assets/img/IMG_1572.jpg' | relative_url }}"
+         alt="P">
   </a>
   <figcaption class="figcap">Presenting our paper.”</figcaption>
 </figure>
