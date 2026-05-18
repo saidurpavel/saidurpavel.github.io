@@ -418,7 +418,12 @@ ninja.data = [{
           section: "News",},{id: "news-our-latest-paper-on-2d-doa-estimation-for-coherent-signals-exploiting-forward-backward-covariance-tensor-has-been-accepted-in-ieee-transcations-on-signal-processing",
           title: 'Our latest paper on 2D DOA estimation for coherent signals exploiting forward backward...',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-presented-our-paper-at-asilomar-2025",
+          title: 'Presented our paper at Asilomar 2025',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/phd_defense/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
