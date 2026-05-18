@@ -20,9 +20,8 @@ published: true
   <a href="{{ '/assets/img/IMG_1572.jpg' | relative_url }}">
     <!-- You can swap the src below with a smaller version (e.g., ..._1600.jpg) for faster loads -->
     <img src="{{ '/assets/img/IMG_1572.jpg' | relative_url }}"
-         alt="P">
+        >
   </a>
-  <figcaption class="figcap">Presenting our paper.”</figcaption>
 </figure>
 
 I defended my PhD dissertation on April 6. My dissertation, “Array Processing with Compressive Measurements and Coherent Signals,” focuses on compressive measurement matrix optimization in hybrid beamforming systems and on developing new methods for detecting coherent signals.
