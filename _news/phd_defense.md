@@ -26,7 +26,6 @@ published: true
 
 I defended my PhD dissertation on April 6. My dissertation, “Array Processing with Compressive Measurements and Coherent Signals,” focuses on compressive measurement matrix optimization in hybrid beamforming systems and on developing new methods for detecting coherent signals.
 
-This is a significant milestone in my academic journey. I am sincerely grateful to my advisor, Dr. Yimin Zhang, and to my committee members, Dr. Fauzia Ahmad, Dr. Iyad Obeid, Dr. Shunqiao Sun, and Dr. Haijun Liu. I am also deeply thankful to my family and friends for their support along the way. 
 <div style="clear:both;"></div>
 
 ---
