@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: PhD candidate, Temple University, Philadelphia, PA, 19122, USA.
+subtitle: PhD in Electrical and Computer Engineering, Temple University, Philadelphia, PA, 19122, USA.
 
 profile:
   align: right
@@ -28,11 +28,11 @@ latest_posts:
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
-My name is Saidur Rahman Pavel, and I am currently pursuing a Ph.D. in Electrical Engineering at <a href="https://www.temple.edu/" target="_blank">Temple University</a>. My research focuses on array signal processing, machine learning, optimization, and wireless communications. I am working in the <a href="https://sites.temple.edu/aspl/" target="_blank">Advanced Signal Processing (ASP) Lab</a> under the supervision of <a href="https://www.yiminzhang.com/" target="_blank">Dr. Yimin Zhang</a>.
+My name is Saidur Rahman Pavel. I received my Ph.D. in Electrical and Computer Engineering from <a href="https://www.temple.edu/" target="_blank">Temple University</a> as a member of the <a href="https://sites.temple.edu/aspl/" target="_blank">Advanced Signal Processing (ASP) Lab</a> under the supervision of <a href="https://www.yiminzhang.com/" target="_blank">Dr. Yimin Zhang</a>. My research interests include array signal processing, machine learning, optimization, wireless communications, and radar sensing.
 
-I received my M.S. in Electrical Engineering from <a href="https://www.temple.edu/" target="_blank">Temple University</a> in June 2023. Prior to that, I completed my B.Sc. in Electrical and Electronic Engineering at <a href="https://www.cuet.ac.bd/" target = "_blank">Chittagong University of Engineering and Technology (CUET)</a> in December 2017. From 2018 to 2020, I worked as a lecturer at <a href="https://puc.ac.bd/" target="_blank">Premier University, Chittagong</a>.
+I received my M.S. in Electrical Engineering from <a href="https://www.temple.edu/" target="_blank">Temple University</a> in June 2023. Prior to that, I earned my B.Sc. in Electrical and Electronic Engineering from <a href="https://www.cuet.ac.bd/" target="_blank">Chittagong University of Engineering and Technology (CUET)</a> in December 2017. From 2018 to 2020, I worked as a Lecturer at <a href="https://puc.ac.bd/" target="_blank">Premier University, Chittagong</a>.
 <p>
-Download my <a href="https://tuprd-my.sharepoint.com/:b:/g/personal/tun65479_temple_edu/ERgG996RcPJGoEObj7iPfWUB1BVDO4oM_Hb-QnxZ4tizCQ?e=pzTWMF" target="_blank">CV</a>.
+Download my <a href="https://tuprd-my.sharepoint.com/:b:/g/personal/tun65479_temple_edu/IQDDfozSO1nBSpdvQANHjKAYATA3Ck5UYsDp0PoaQ8bXtUw?e=BuDcqj" target="_blank">CV</a>.
 </p>
 
 
